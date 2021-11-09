@@ -8,3 +8,5 @@ This repository contains the submission for the Programming for Data Analysis as
 ## Section 3: The use and purpose of five "Distributions" functions
 ***
 ## Section 4: Seeds in random number generation
+
+To run the notebook, type the command "jupyter notebook" in the command line in the same directory as both files.
