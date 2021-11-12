@@ -1,4 +1,5 @@
-# numpy.random - Lonan Keane  G00398252
+# numpy.random  
+### Lonan Keane  G00398252
 This repository contains the submission for the Programming for Data Analysis assignment for the 2021/22 semester.
 ***
 ## Section 1: The overall purpose of the numpy.random package
